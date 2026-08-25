@@ -14,7 +14,7 @@ requirements.txt
 
 ## Data
 
-Not included here. The Space Ranger outputs are deposited at [accession]. Place one
+Not included here. The Space Ranger outputs are not included here. Raw data are restricted and available from the corresponding author upon reasonable request, subject to institutional data sharing agreement and ethics approval. Place one directory per section under data/, each containing:. Place one
 directory per sample under `data/`, each containing:
 
 ```
@@ -62,4 +62,4 @@ differential expression output is provided as Supplementary Table 4.
 
 ## Licence
 
-[to be specified]
+MIT (see LICENSE). This licence applies to the analysis code only; the underlying patient data are not included and are not covered by it.
